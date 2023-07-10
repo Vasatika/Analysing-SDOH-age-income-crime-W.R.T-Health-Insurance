@@ -63,7 +63,7 @@ The analysis aimed to:
 - Identify groups at risk based on social determinants of health (SDOH) that can be targeted for providing insurance.
 - Understand target audience groups and ideate ways to provide health insurance for vulnerable groups and determine appropriate coverage.
 
-Additional analysis involved:
+The additional analysis involved:
 - Developing regression models to generate risk scores considering various SDOH indices.
 - Expanding the analysis to other SDOH factors and geographic regions.
 
@@ -71,5 +71,5 @@ Additional analysis involved:
 External websites and articles were researched to support the project objective. These sources provide additional insights into social determinants of health, health insurance, and the impact of SDOH on health outcomes.
 
 ## Additional Notes
-- Detailed information on the data wrangling process, analysis steps, and visualizations can be found in the original report.
+- Detailed information on the data wrangling process, analysis steps, and visualizations can be found in the final report.
 - The project focuses on analyzing the impact of social determinants of health on health insurance, providing insights for insurance companies to design effective plans and coverage.
